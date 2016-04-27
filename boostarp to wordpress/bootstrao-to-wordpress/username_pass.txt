@@ -1,0 +1,2 @@
+username:bootstrap_admin
+pass:123
